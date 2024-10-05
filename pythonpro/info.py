@@ -1,5 +1,5 @@
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'shinigdapriya2370023@ssn.edu.in'
-EMAIL_HOST_PASSWORD = 'GivemethatGold24K'
+EMAIL_HOST_USER = # your email id
+EMAIL_HOST_PASSWORD = # your password
 EMAIL_PORT = 587
